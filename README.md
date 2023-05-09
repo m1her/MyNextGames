@@ -30,6 +30,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ![Preview](https://user-images.githubusercontent.com/106315157/236205535-76902e43-736c-43a4-aed4-ebf888115efe.gif)
 
-#New! TicTacToe
+### New! TicTacToe
 ![Preview](https://github.com/m1her/MyNextGames/assets/106315157/43212aad-f605-4c59-bdc4-804d82e954cf)
 
